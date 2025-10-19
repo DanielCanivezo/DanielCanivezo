@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Daniel Canivezo Soares
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma**  
-💼 Em transição de carreira — de **Fisioterapia** para **Tecnologia**  
+💼 Em transição de carreira de **Fisioterapia** para **Tecnologia**  
 🚀 Buscando **oportunidades de estágio** e **novos desafios** na área de desenvolvimento  
 
 ---
